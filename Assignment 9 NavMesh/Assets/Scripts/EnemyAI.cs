@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿//Logan ross
+//assignment 9
+//controls enemy movment
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
